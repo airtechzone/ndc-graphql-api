@@ -4,7 +4,7 @@ This repository provides the information to access and use a prototype GraphQL N
 
 **Functionalities are limited compared to Kronos.**
 
-**This is a *beta*: changes are to be expected, as well as bugs.**
+**This is an *alpha*: changes are to be expected, as well as bugs.**
 
 This API is available (without any API key for now) here (with a GUI): [http://gql.airtech.zone:8000](http://gql.airtech.zone:8000).
 
